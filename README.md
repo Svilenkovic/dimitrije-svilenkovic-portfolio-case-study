@@ -2,7 +2,7 @@
 
 A bilingual personal portfolio built as an optical archive of selected websites, applications and working methods.
 
-**[dimitrijesvilenkovic.com](https://dimitrijesvilenkovic.com/)** · [Srpski](README.sr.md)
+**[dimitrijesvilenkovic.com](https://dimitrijesvilenkovic.com/)** · [Hemax Pro Wash case study](https://dimitrijesvilenkovic.com/en/case-studies/hemax-pro-wash-product-variants/) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > This is an independent project by D. Svilenković. The production source stays in a private repository; this public repository documents the work.
@@ -10,7 +10,7 @@ A bilingual personal portfolio built as an optical archive of selected websites,
 <table>
   <tr><td><b>Type</b></td><td>Selected web work</td></tr>
   <tr><td><b>Languages</b></td><td>Serbian and English</td></tr>
-  <tr><td><b>Public routes</b></td><td>16 canonical pages</td></tr>
+  <tr><td><b>Public routes</b></td><td>18 canonical pages</td></tr>
   <tr><td><b>Role</b></td><td>Research, design, development, SEO, hosting and maintenance</td></tr>
   <tr><td><b>Stack</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
 </table>
@@ -28,7 +28,7 @@ The central archive begins in monochrome. A copper optical lens moves across the
 - Selected projects connected to their public project studies
 - Separate pages for websites, applications, process and author information
 - An optical archive with desktop lens and touch-friendly mobile scan states
-- Eight Serbian and eight English canonical routes
+- Nine Serbian and nine English canonical routes
 - Contact details and business attribution presented consistently
 
 ## Release checks

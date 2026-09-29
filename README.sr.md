@@ -2,7 +2,7 @@
 
 Izabrani web radovi.
 
-**[dimitrijesvilenkovic.com](https://dimitrijesvilenkovic.com/)** · [English](README.md)
+**[dimitrijesvilenkovic.com](https://dimitrijesvilenkovic.com/)** · [Studija: Hemax Pro Wash](https://dimitrijesvilenkovic.com/studije/hemax-pro-wash-proizvodne-varijante/) · [English](README.md)
 
 > [!NOTE]
 > Samostalni projekat D. Svilenkovića. Produkcijski izvor ostaje u privatnom repozitorijumu; ovaj javni repozitorijum dokumentuje izvedeni rad.
@@ -10,7 +10,7 @@ Izabrani web radovi.
 <table>
   <tr><td><b>Vrsta</b></td><td>Izabrani web radovi</td></tr>
   <tr><td><b>Jezici</b></td><td>srpski i engleski</td></tr>
-  <tr><td><b>Javne rute</b></td><td>16 canonical stranica</td></tr>
+  <tr><td><b>Javne rute</b></td><td>18 canonical stranica</td></tr>
   <tr><td><b>Uloga</b></td><td>istraživanje, dizajn, razvoj, SEO, hosting i održavanje</td></tr>
   <tr><td><b>Tehnologije</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
 </table>
@@ -28,7 +28,7 @@ Centralna arhiva počinje u monohromu. Bakarno optičko sočivo prelazi preko mr
 - Izabrani projekti povezani sa svojim javnim studijama
 - Posebne stranice za sajtove, aplikacije, proces i podatke o autoru
 - Optička arhiva sa desktop sočivom i mobilnim stanjima prilagođenim dodiru
-- Osam srpskih i osam engleskih canonical ruta
+- Devet srpskih i devet engleskih canonical ruta
 - Dosledno prikazani kontakt i poslovna atribucija
 
 ## Provere izdanja
