@@ -1,42 +1,58 @@
+<a href="https://dimitrijesvilenkovic.com/"><img src="media/cover.jpg" alt="D. Svilenković Portfolio, naslovna strana na laptopu i telefonu" width="100%"></a>
+
 # D. Svilenković Portfolio
 
-Izabrani web radovi.
+Lični portfolio koji izabrane radove otvara kao arhivu odluka: problem, način prikaza i granica onoga što se može pošteno tvrditi.
 
-**[dimitrijesvilenkovic.com](https://dimitrijesvilenkovic.com/)** · [Studija: Hemax Pro Wash](https://dimitrijesvilenkovic.com/studije/hemax-pro-wash-proizvodne-varijante/) · [English](README.md)
+**[dimitrijesvilenkovic.com](https://dimitrijesvilenkovic.com/)** · [Studija slučaja](https://svilenkovic.rs/radovi/dimitrije-svilenkovic) · [English](README.md)
 
 > [!NOTE]
-> Samostalni projekat D. Svilenkovića. Produkcijski izvor ostaje u privatnom repozitorijumu; ovaj javni repozitorijum dokumentuje izvedeni rad.
+> Moj sopstveni projekat, ne klijentski posao. Izvorni kod je privatan. Ova stranica opisuje šta sajt radi i kako je napravljen.
 
 <table>
-  <tr><td><b>Vrsta</b></td><td>Izabrani web radovi</td></tr>
-  <tr><td><b>Jezici</b></td><td>srpski i engleski</td></tr>
-  <tr><td><b>Javne rute</b></td><td>18 canonical stranica</td></tr>
-  <tr><td><b>Uloga</b></td><td>istraživanje, dizajn, razvoj, SEO, hosting i održavanje</td></tr>
-  <tr><td><b>Tehnologije</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
+  <tr><td><b>Klijent</b></td><td>Sopstveni projekat</td></tr>
+  <tr><td><b>Delatnost</b></td><td>Lični portfolio</td></tr>
+  <tr><td><b>Lokacija</b></td><td>Srbija</td></tr>
+  <tr><td><b>Vrsta</b></td><td>Portfolio sajt</td></tr>
+  <tr><td><b>Moj deo posla</b></td><td>Istraživanje, dizajn, izrada, SEO i hosting</td></tr>
+  <tr><td><b>Tehnologije</b></td><td>Astro 7, TypeScript, PHP 8.3, SQLite, nginx</td></tr>
 </table>
 
-## Namena
+## O projektu
 
-Portfolio okuplja izabrane radove, usluge i proces razvoja na jednom fokusiranom mestu. Javne studije projekata ostaju zasebne, dok im ovaj sajt daje kontekst i jasan put do novog upita.
+Portfolio može da bude niz lepih slika, ali tako se ne vidi šta je u poslu bilo teško. Na dimitrijesvilenkovic.com izabrani radovi se otvaraju kao arhiva odluka. Sajtovi i aplikacije imaju odvojene strane, a svaki rad vodi dalje ka živom projektu i njegovoj javnoj studiji.
 
-## Dizajn pravac
+Naslovna je optička arhiva: počinje crno-belo, a bakarno sočivo koje prelazi preko mreže radova vraća boju. Na ekranima na dodir sočivo postaje skeniranje, a svi naslovi i veze ostaju dostupni tastaturom i bez animacije. Nema izmišljenog tima, nagrada ni rezultata.
 
-Centralna arhiva počinje u monohromu. Bakarno optičko sočivo prelazi preko mreže projekata i otkriva boju, pa pregled postaje kontrolisan čin približavanja radu.
+## Šta sam uradio
 
-## Šta je urađeno
+- Izabrani radovi povezani sa živim sajtovima i javnim studijama
+- Odvojene strane za sajtove, aplikacije, proces i autora
+- Optičko sočivo preko mreže radova, a na ekranima na dodir skeniranje
+- Studija o varijantama proizvoda za Hemax Pro Wash
+- Srpska i engleska verzija svake strane
 
-- Izabrani projekti povezani sa svojim javnim studijama
-- Posebne stranice za sajtove, aplikacije, proces i podatke o autoru
-- Optička arhiva sa desktop sočivom i mobilnim stanjima prilagođenim dodiru
-- Devet srpskih i devet engleskih canonical ruta
-- Dosledno prikazani kontakt i poslovna atribucija
+## Merenja
 
-## Provere izdanja
+| | Performanse | Pristupačnost | Dobre prakse | SEO |
+| :-- | :-: | :-: | :-: | :-: |
+| Telefon | 99 | 95 | 100 | 100 |
+| Desktop | 100 | 95 | 100 | 100 |
 
-Svaka canonical ruta proverena je na širinama 390, 768, 1440 i 1920 px. Izdanje je provereno i bez JavaScript-a i uz reduced-motion postavku. Žive provere obuhvatile su HTTPS, preusmerenja, zaglavlja odgovora, strukturirane podatke, sitemap fajlove, zaštićene putanje i neispravne kontakt zahteve bez slanja test poruka.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. Strukturisani podaci: `Person`.
 
-Ovo su inženjerske provere, a ne tvrdnje o poziciji u pretrazi ili terenskim performansama.
+## Snimci ekrana
+
+<table>
+  <tr>
+    <td width="68%" valign="top"><img src="media/desktop.webp" alt="D. Svilenković Portfolio, naslovna strana na ekranu širine 1440 px"></td>
+    <td width="32%" valign="top"><img src="media/mobile.webp" alt="D. Svilenković Portfolio, naslovna strana na telefonu"></td>
+  </tr>
+</table>
+
+<img src="media/inner-1.webp" alt="Izabrani radovi na živom sajtu">
+<sub>Izabrani radovi na živom sajtu</sub>
 
 ---
 
-<sub>Dizajn i izrada: [D. Svilenković](https://svilenkovic.com).</sub>
+<sub>Izrada: [D. Svilenković](https://svilenkovic.rs).</sub>

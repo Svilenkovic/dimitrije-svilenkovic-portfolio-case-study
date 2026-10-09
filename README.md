@@ -1,42 +1,58 @@
+<a href="https://dimitrijesvilenkovic.com/"><img src="media/cover.jpg" alt="D. Svilenković Portfolio, home page on a laptop and a phone" width="100%"></a>
+
 # D. Svilenković Portfolio
 
-A bilingual personal portfolio built as an optical archive of selected websites, applications and working methods.
+A personal portfolio that opens selected work as an archive of decisions: the problem, how it was shown and what can honestly be claimed.
 
-**[dimitrijesvilenkovic.com](https://dimitrijesvilenkovic.com/)** · [Hemax Pro Wash case study](https://dimitrijesvilenkovic.com/en/case-studies/hemax-pro-wash-product-variants/) · [Srpski](README.sr.md)
+**[dimitrijesvilenkovic.com](https://dimitrijesvilenkovic.com/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/dimitrije-svilenkovic) · [Srpski](README.sr.md)
 
 > [!NOTE]
-> This is an independent project by D. Svilenković. The production source stays in a private repository; this public repository documents the work.
+> My own project, not client work. The source code is private. This page describes what the site does and how it is built.
 
 <table>
-  <tr><td><b>Type</b></td><td>Selected web work</td></tr>
-  <tr><td><b>Languages</b></td><td>Serbian and English</td></tr>
-  <tr><td><b>Public routes</b></td><td>18 canonical pages</td></tr>
-  <tr><td><b>Role</b></td><td>Research, design, development, SEO, hosting and maintenance</td></tr>
-  <tr><td><b>Stack</b></td><td>Astro, TypeScript, CSS, PHP 8.3, SQLite, nginx</td></tr>
+  <tr><td><b>Client</b></td><td>Own project</td></tr>
+  <tr><td><b>Industry</b></td><td>Personal portfolio</td></tr>
+  <tr><td><b>Location</b></td><td>Serbia</td></tr>
+  <tr><td><b>Type</b></td><td>Portfolio website</td></tr>
+  <tr><td><b>My role</b></td><td>Research, design, development, SEO and hosting</td></tr>
+  <tr><td><b>Stack</b></td><td>Astro 7, TypeScript, PHP 8.3, SQLite, nginx</td></tr>
 </table>
 
-## Purpose
+## About the project
 
-The portfolio brings selected work, services and the development process into one focused place. Public project studies stay separate, while this site gives them context and a clear route to a new enquiry.
+A portfolio can be a row of nice pictures, but that hides what was actually hard in a job. On dimitrijesvilenkovic.com selected projects open as an archive of decisions. Websites and applications have separate pages, and every project leads on to its live site and its public case study.
 
-## Design direction
-
-The central archive begins in monochrome. A copper optical lens moves across the project grid and reveals colour, turning browsing into a controlled act of looking closer.
+The home page is an optical archive: it starts in monochrome, and a copper lens moving over the project grid brings back the colour. On touch screens the lens turns into a scan, and every title and link stays reachable by keyboard and without the animation. There is no invented team, no awards and no made-up results.
 
 ## What I built
 
-- Selected projects connected to their public project studies
-- Separate pages for websites, applications, process and author information
-- An optical archive with desktop lens and touch-friendly mobile scan states
-- Nine Serbian and nine English canonical routes
-- Contact details and business attribution presented consistently
+- Selected projects linked to their live sites and public case studies
+- Separate pages for websites, applications, process and author
+- An optical lens over the project grid, with a scan on touch screens
+- A case study of product variants at Hemax Pro Wash
+- Serbian and English versions of every page
 
-## Release checks
+## Results
 
-Every canonical route was checked at 390, 768, 1440 and 1920 px. The release was also tested without JavaScript and with reduced motion. Live checks covered HTTPS, redirects, response headers, structured data, sitemap files, protected paths and invalid contact requests without sending test mail.
+| | Performance | Accessibility | Best practices | SEO |
+| :-- | :-: | :-: | :-: | :-: |
+| Mobile | 99 | 95 | 100 | 100 |
+| Desktop | 100 | 95 | 100 | 100 |
 
-These are engineering checks, not claims about search ranking or field performance.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. Structured data: `Person`.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td width="68%" valign="top"><img src="media/desktop.webp" alt="D. Svilenković Portfolio, home page on a 1440 px screen"></td>
+    <td width="32%" valign="top"><img src="media/mobile.webp" alt="D. Svilenković Portfolio, home page on a phone"></td>
+  </tr>
+</table>
+
+<img src="media/inner-1.webp" alt="Selected work on the live site">
+<sub>Selected work on the live site</sub>
 
 ---
 
-<sub>Designed and built by [D. Svilenković](https://svilenkovic.com).</sub>
+<sub>Built by [D. Svilenković](https://svilenkovic.com).</sub>
