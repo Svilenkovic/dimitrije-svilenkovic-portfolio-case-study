@@ -36,8 +36,8 @@ Naslovna je optička arhiva: počinje crno-belo, a bakarno sočivo koje prelazi 
 
 | | Performanse | Pristupačnost | Dobre prakse | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Telefon | 99 | 95 | 100 | 100 |
-| Desktop | 100 | 95 | 100 | 100 |
+| Telefon | 100 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
 PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. Strukturisani podaci: `Person`.
 

@@ -36,8 +36,8 @@ The home page is an optical archive: it starts in monochrome, and a copper lens 
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 99 | 95 | 100 | 100 |
-| Desktop | 100 | 95 | 100 | 100 |
+| Mobile | 100 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
 PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. Structured data: `Person`.
 
