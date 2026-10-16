@@ -39,7 +39,7 @@ Naslovna je optička arhiva: počinje crno-belo, a bakarno sočivo koje prelazi 
 | Telefon | 100 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. Strukturisani podaci: `Person`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. Strukturisani podaci: `Person`.
 
 ## Snimci ekrana
 
